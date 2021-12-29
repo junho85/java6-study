@@ -1,0 +1,3 @@
+= java6 study
+
+https://www.oracle.com/java/technologies/javase-java-archive-javase6-downloads.html[Java SE 6 Downloads]
